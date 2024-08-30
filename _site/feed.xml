@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-08-29T18:56:08-04:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Feiya Ou</title>
+  
+
+  
+    <subtitle>This is a portfolio website for Feiya Ou,who is a front-end developer, user experience designer and graphic artist. </subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">TypeMind-MBTI</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="TypeMind-MBTI" />
+      <published>2014-07-18T00:00:00-04:00</published>
+      <updated>2014-07-18T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tetris Game</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Tetris Game" />
+      <published>2014-07-17T00:00:00-04:00</published>
+      <updated>2014-07-17T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mapty App</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Mapty App" />
+      <published>2014-07-16T00:00:00-04:00</published>
+      <updated>2014-07-16T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Popcorn Movie Rating</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Popcorn Movie Rating" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Travel List</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Travel List" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Guess Number Game</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Guess Number Game" />
+      <published>2014-07-14T00:00:00-04:00</published>
+      <updated>2014-07-14T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

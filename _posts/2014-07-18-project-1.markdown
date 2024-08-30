@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: project1.png
+img1: project1img1.png
+alt: image-alt
+project-date: July 2024
+title: TypeMind-MBTI
+client: Personal Project
+category: Web Development
+demolink: https://feiyaou.github.io/MBTI-project
+description: This website project for TypeMind is inspired by the growing popularity of the MBTI in both professional settings and everyday life. The site is divided into four sections, including a simple game, an introduction to fundamental MBTI concepts, four videos exploring the topic, and a survey to gather user opinions on MBTI. This project serves as a practical exercise in responsive design, as well as in fundamental JavaScript and HTML skills.
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: project2.png
+img1: project2img1.png
+alt: image-alt
+project-date: July 2024
+title: Tetris Game
+client: Personal Project
+category: Web Development
+demolink: https://feiyaou.github.io/Tetris-responsiveDesign
+description: This is a classic Tetris game webpage featuring multiple functionalities, including pause, restart, and music control. The project is available in both web and mobile versions. To build this game, I utilized functional programming techniques as well as skills with the HTML5 canvas.
+---

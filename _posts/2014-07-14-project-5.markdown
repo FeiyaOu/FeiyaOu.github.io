@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: project5.png
+img1: project5img1.png
+alt: image-alt
+project-date: May 2024
+title: Guess Number Game
+client: Personal Project
+category: Web Development
+demolink: https://feiyaou.github.io/Guess-Number
+description: This project is a practice exercise from an online JavaScript course by Jonas Schmedtmann on Udemy. It involves creating a simple web-based number guessing game that utilizes fundamental JavaScript skills in DOM manipulation and event handling, along with CSS for styling. I also made some layout changes to enhance the UI/UX.
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: project6.png
+img1: project6img1.png
+alt: image-alt
+project-date: June 2024
+title: Travel List
+client: Personal Project
+category: Web Development
+demolink: https://feiyaou.github.io/React-Project-Travel-List
+description: This React project is a practice exercise from an online React course by Jonas Schmedtmann on Udemy. The project involves building a web application that allows users to create an interactive travel list. Technically, it utilizes States to manage dynamic components in React.
+---

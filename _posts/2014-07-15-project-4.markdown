@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: project4.png
+img1: project4img1.png
+alt: image-alt
+project-date: July 2024
+title: Popcorn Movie Rating
+client: Personal Project
+category: Web Development
+demolink: https://ratingmovies-react-practice.netlify.app/
+description: This React project is a practice exercise from an online React course by Jonas Schmedtmann on Udemy. The project involves building a web application that allows users to select and rate movies. It utilizes components, props, and hooks to manage the application's functionality, while fetching movie data from the OMDB API. This project serves as a hands-on practice in applying key React concepts to build a dynamic and interactive user experience.
+---

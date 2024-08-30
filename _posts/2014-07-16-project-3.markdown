@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: project3.png
+img1: project3img1.png
+alt: image-alt
+project-date: May 2024
+title: Mapty App
+client: Personal Project
+category: Web Development
+demolink: https://feiyaou.github.io/Mapty-project
+description: This project is a practice exercise based on Jonas Schmedtmann's JavaScript course on Udemy. The web application utilizes the Leaflet JS library for interactive map functionality, allowing users to mark locations on the map. When a location is clicked, a form appears, enabling users to log physical activities such as running and cycling. Each entry places a marker on the map, indicating the location and type of exercise.The project emphasizes the application of object-oriented programming skills, including ES6 classes, JavaScript libraries, and API integration.
+---
